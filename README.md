@@ -1,2 +1,4 @@
 # DSC_1
-belajar github
+belajar
+
+hari selasa
